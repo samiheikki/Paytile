@@ -56,7 +56,7 @@ Technologies used:
 -MySQL
 -Bootstrap
 -jQuery
--CURL
+-CURL 
 -Photoshop
 -HTML
 -CSS
